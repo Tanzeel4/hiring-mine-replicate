@@ -1,0 +1,52 @@
+.nav-item{
+    margin-left: 60px;
+}
+
+.display-1{
+    color: blue;
+    font-weight: 600;
+    font-family: Arial;
+}
+
+.pra-1{
+    font-size: 20px;
+}
+
+.form-control{
+    width: 500px;
+    padding-right: 100;
+}
+
+.btn-2{
+    background-color: blue;
+    border-radius: 15px;
+}
+
+.pro{
+    color: blue;
+    font-weight: 700;
+}
+
+.btn-3{
+    background-color: transparent;
+    border-radius: 15px;
+}
+
+.textalign{
+    text-align: center;
+    color: blue;
+}
+
+span{
+    color: black;
+    font-weight: 600;
+}
+
+.prox{
+    text-align: center;
+    font-weight: 200;
+}
+
+.container-7{
+    display: flex;
+}
